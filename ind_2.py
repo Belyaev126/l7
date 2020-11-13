@@ -16,7 +16,7 @@ if __name__ == '__main__':
     r = 0
 
     for i in a:
-        if i > 0:
+        if i > 0
             r += i
     print("1)""%.2f" % r)
 
